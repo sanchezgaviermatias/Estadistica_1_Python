@@ -1,6 +1,6 @@
 # Repositorio de las Clases Sobre Python
 
-## Universidad de Buenos Aires - Faculta de Economía
+## Universidad de Buenos Aires - Facultad de Economía
 
 
 ### Estadística I - Profesor Rodrigo del Rosso
